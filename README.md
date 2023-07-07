@@ -2,6 +2,8 @@
 Generative Adversarial Networks for generating handwritten digits.
 <br/>Trained on MNIST using TensorFlow.
 
+## Kaggle - <a href="https://www.kaggle.com/code/notshrirang/gan-of-handwritten-digits">Link</a>
+
 ## Model - <a href="https://github.com/NotShrirang/GAN-for-Handwritten-Digits/blob/main/model_lr0002_e6000.h5">Link</a>
 - learning_rate = 0.0002
 - 6000 epochs
