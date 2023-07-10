@@ -11,7 +11,7 @@ st.write("This is a simple demo of a GAN trained on the MNIST dataset. The model
 
 generate = st.button("Generate Random Image")
 if generate:
-    model = load_model('./generator_lr0002_e6000.h5')
+    model = load_model('./models/generator_lr0002_e10000.h5')
 
     vector = randn(100)
     vector = vector.reshape(1, 100)
