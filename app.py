@@ -7,7 +7,7 @@ from numpy.random import randn
 
 
 st.title("Generative Adversarial Network (GAN) for MNIST Handwritten Digit Generation")
-st.write("This is a simple demo of a GAN trained on the MNIST dataset. The model was trained for 6000 epochs.")
+st.write("This is a simple demo of a GAN trained on the MNIST dataset. The model was trained for 10000 epochs.")
 
 generate = st.button("Generate Random Image")
 if generate:
